@@ -1,13 +1,5 @@
-# First we need to find the size of factorization for that we need to run the following program
 
-def len_link(list):
-    temp=list.head
-    count=0
-    while(temp):
-        count+=1
-        temp=temp.next
-    return count
-  # Then we need to factorize the number i.e 100 making loop
+  # We need to factorize the number i.e 100 making loop
    fact =1 
     var= 100
     for i in range (1,var):
