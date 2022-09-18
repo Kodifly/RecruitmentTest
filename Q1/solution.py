@@ -17,6 +17,6 @@ def digit_sum_for(number):
     return total
 
 
-factorial = get_factorial(10)
+factorial = get_factorial(100)
 digit_sum = digit_sum_for(factorial)
 print(digit_sum)
