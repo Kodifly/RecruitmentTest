@@ -12,3 +12,5 @@ def sum_factorial_100(n):
   for i in range(len(str(factorial_100))): # iterating through result of factorial
     sum+= int(str(factorial_100)[i]) #adding the result to sum variable
   return sum
+
+print(sum_factorial_100(100))
