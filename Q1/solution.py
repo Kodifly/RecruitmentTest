@@ -1,6 +1,9 @@
 ## Add code below with answer clearly stated
 def factorial(num):
-    if num==1:
+    if num < 0: #if given number is negative or zero  its a invalid number
+        print("Not Defined!!!")
+        return None
+    if num==1 or num== 0:
         return 1
     else:
         var = 1
