@@ -2,7 +2,7 @@ from typing import List
 
 # code taken from https://github.com/neetcode-gh/leetcode/blob/main/python/4-median-of-two-sorted-arrays.py
 # https://www.youtube.com/watch?v=q6IEA26hvXc video explaination
-# My explaination: https://youtu.be/yqj1h_kw_KY
+# My explaination: https://www.youtube.com/watch?v=yqj1h_kw_KY
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
