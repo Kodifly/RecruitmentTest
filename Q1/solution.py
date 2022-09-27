@@ -1,3 +1,4 @@
+# Video explaination: https://www.youtube.com/watch?v=2r5YV5h_-1I
 ## Add code below with answer clearly stated
 def fact(n):
     if n==1:
